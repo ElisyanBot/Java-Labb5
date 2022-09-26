@@ -4,7 +4,7 @@ public class Die extends BoardGameMaterial {
     public int value = 0;
 
     public Die() {
-        value = (int) Math.random();
+     value = (int) Math.random();
     }
 
     public int DieRoll() {
