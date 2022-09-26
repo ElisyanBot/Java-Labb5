@@ -1,7 +1,5 @@
 package edu.lernia.labb5;
 
-import java.beans.Statement;
-import java.text.BreakIterator;
 import java.util.Scanner;
 
 public class YatziMain {
